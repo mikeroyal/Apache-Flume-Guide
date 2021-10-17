@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/137402856-dda31ae0-3467-4854-a76f-8603b6c99664.png">
+ <img src="https://user-images.githubusercontent.com/45159366/137644991-23ecb217-2d53-48b6-b7e0-fbabf7a5eacf.png">
   <br />
   Apache Flume Guide
 </h1>
